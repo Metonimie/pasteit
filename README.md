@@ -44,11 +44,3 @@ pasteit filename
 
 * Improved argument handling.
 * Created the program.
-
-### Social ###
-
-I would like to increase my followers on Twitter.
-
-* Twitter: [@Metonymy](https://twitter.com/Metonymy)
-
-If you appreciate my work then please follow me.
