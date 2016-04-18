@@ -1,7 +1,10 @@
 # PasteIT #
 
-Command line application for Mac OX that permits the upload of files to PasteBin.com
+Command line application for Mac OX that permits the upload of files to PasteBin.com.
+
 This is an educational program, it isn't supposed to be used as professional software!
+
+I made it in order to practice my cpp.
 
 ### Information ###
 
