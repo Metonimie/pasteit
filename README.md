@@ -1,6 +1,7 @@
 # PasteIT #
 
 Command line application for Mac OX that permits the upload of files to PasteBin.com
+This is an educational program, it isn't supposed to be used as professional software!
 
 ### Information ###
 
@@ -13,6 +14,11 @@ pasteit filename
 
 * That's it.
 * Type pasteit -help for more options.
+
+## Compiling ##
+
+1. Add your pastebin developer key in the ./src/Paste.cpp constructor
+2. Compile the program
 
 ## Instalatation ##
 
@@ -39,7 +45,7 @@ pasteit filename
 ### Social ###
 
 I would like to increase my followers on Twitter.
- 
+
 * Twitter: [@Metonymy](https://twitter.com/Metonymy)
 
 If you appreciate my work then please follow me.
